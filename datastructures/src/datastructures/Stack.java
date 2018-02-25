@@ -1,7 +1,7 @@
 package datastructures;
 
 public class Stack {
-
+        //stack
 	public static final int DEFAULT_CAPACITY = 10;
 	int capacity;
 	int top = -1;
